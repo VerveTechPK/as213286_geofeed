@@ -1,0 +1,8 @@
+#AS213286 Geo Feed 
+#Last Updated: 2023-05-26T05:30:00+05:00
+#prefix,country_code,region_code,city,postal
+2a06:a005:17::/48,PK,PK-PB,Multan,60000
+2a06:a005:1e::/48,PK,PK-PB,Multan,60000
+2a06:a005:852::/48,PK,PK-PB,Multan,60000
+2a0e:d487:fff9::/48,PK,PK-PB,Multan,60000
+2a10:2f00:131::/48,PK,PK-PB,Multan,60000
